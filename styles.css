@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:space-between;
+}
+.a{
+	background-color:green;
+	width:70px;
+	height:70px
+}
+.b{
+	background-color:red;
+	width:70px;
+	height:70px
+}
+.c{
+	background-color:blue;
+	width:70px;
+	height:70px
+}
